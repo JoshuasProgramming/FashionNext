@@ -8,3 +8,5 @@ Threat: Another company with bigger purchasing power, that can undercut us.
 
 ## Prototypes
 ![alt text](https://github.com/JoshuasProgramming/FashionNext/blob/main/prototypes/FashionNext_day_1.png)
+
+![alt text](https://github.com/JoshuasProgramming/FashionNext/blob/main/prototypes/FashionNext_day_2.png)
